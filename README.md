@@ -1,3 +1,3 @@
-# Capestoneproject_Group8_ section002
+# PowerTrust_Capstone_Project_Group_8
 This is for Power Trust project capstone project
 
